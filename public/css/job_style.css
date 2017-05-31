@@ -1,0 +1,25 @@
+#wrapper-job-show {
+    background-color: #ffffff;
+    padding: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
+strong.title-show {
+    display: inline;
+    font-weight: bold;
+}
+
+#form-job-edit {
+    margin-bottom: 70px;
+}
+
+.color_label {
+    color: #000;
+}
+
+.detail_job {
+    background: #fff;
+    padding-left: 0px;
+}

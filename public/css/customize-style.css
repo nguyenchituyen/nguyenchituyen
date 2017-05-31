@@ -1,0 +1,46 @@
+#wrapper-job-show {
+    background-color: #ffffff;
+    padding: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
+#wrapper-job-show .message-title {
+    margin-bottom: 10px;
+}
+
+.btn-back, .btn-submit {
+    padding: 6px 30px;
+    font-weight: 500;
+}
+
+.customize-form {
+    margin-bottom: 70px;
+    background-color: #ffffff;
+    padding: 30px 20px;
+}
+
+.customize-form .select-multiple {
+    padding-left: 0;
+    margin-bottom: 15px;
+}
+
+.job-show-btn, .resource-create-btn, .role-create-btn {
+    margin-top: 20px;
+}
+
+.action-column a {
+    margin-right: 4px;
+}
+
+.contact-message {
+    max-width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.customize-form-btn {
+    padding-left: 0;
+}
